@@ -1,3 +1,13 @@
 https://github.com/guruastrainer2023/2025-OU-Repo
 
 https://github.com/guruastrainer2023/2025-July
+
+
+
+echo "# 2025-July" >> README.md
+git init
+git add README.md
+git commit -m "Java commit"
+git branch -M main
+git remote add origin https://github.com/guruastrainer2023/2025-July.git
+git push -u origin main
